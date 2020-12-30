@@ -10,7 +10,12 @@
   line-height:normal;
   text-transform:none;
 }
-.box_1 {
+._图片_ {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -53,20 +58,75 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
-}
-.line {
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
 }
+._线段 {
+}
 ._连接 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._流程形状 {
+}
+._连接线 {
+}
+.box_3 {
+}
+._默认样式 {
+}
+._跳转-移入 {
+  color:#1ABC9C;
+}
+.icon {
+}
+.line {
+}
+.box_1 {
+}
+.box_2 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._图片 {
+  color:#000000;
+}
+._表格 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.link_button {
+  color:#169BD5;
+}
+.flow_shape {
+}
+.image {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._图片1 {
 }
 textarea, select, input, button { outline: none; }
